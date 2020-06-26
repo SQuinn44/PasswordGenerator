@@ -1,2 +1,3 @@
 # PasswordGenerator
-Password Generator using Javascript
+Password Generator using Javascript, CSS and HTML.
+
